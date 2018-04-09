@@ -1,0 +1,6 @@
+
+#the application can be launched with inline plotting
+$ ipython qtconsole --pylab=inline
+
+# launch IPython with matplotlib integration
+$ ipython --pylab
